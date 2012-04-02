@@ -1,0 +1,5 @@
+/old-route,/new-route
+/a/b/c,/x/y/z
+"/somewhere","/somewhere-else"
+"/old?params=1","/new?params=2"
+/invalid
